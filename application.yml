@@ -1,3 +1,8 @@
+spring:
+  application:
+    name: TestRohit
+
+
 eureka:
   instance:
     prefer-ip-address: true
